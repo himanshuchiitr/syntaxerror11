@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TIME TABLE</string>
+    <string name="help0">WELCOME</string>
+    <string name="help1">CHOOSE DAY</string>
+    <string name="help2">MONDAY</string>
+    <string name="help3">TUESDAY</string>
+    <string name="help4">WEDNESDAY</string>
+    <string name="help5">THURSDAY</string>
+    <string name="help6">FRIDAY</string>
+    <string name="help7">SATURDAY</string>
+    <string name="help8">TIME TABLE</string>
+    <string name="HELP9">M3 MONDAY</string>
+    <string name="HELP10">M3 TUESDAY</string>
+    <string name="HELP11">M3 WEDNESDAY</string>
+    <string name="HELP12">M3 THURSDAY</string>
+    <string name="HELP13">M3 FRIDAY</string>
+</resources>
